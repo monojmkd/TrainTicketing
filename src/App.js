@@ -87,6 +87,7 @@ export default function App() {
       <header>
         <h1>Train Seat Booking System</h1>
         <p>Select a date, pick a train, and book your seats!</p>
+        <p>Available Dates 20-09-2024 & 21-09-2024</p>
       </header>
 
       <div className="date-picker">
